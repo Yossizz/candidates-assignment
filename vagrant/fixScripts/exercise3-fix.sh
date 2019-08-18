@@ -1,2 +1,1 @@
-#!/bin/bash
-#add fix to exercise3 here
+#!/usr/bin/env bash
